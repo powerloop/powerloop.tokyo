@@ -20,9 +20,9 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: dronepodcastjp
+hashtag: dronecastjp
 itunes_podcast_url:
-keywords: drone,game,race
+keywords: drone,game,race,tool,tip
 language: ja
 markdown: kramdown
 permalink: /episode/:title
