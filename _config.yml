@@ -1,10 +1,10 @@
 actors:
   a2c:
-    image_url: https://pbs.twimg.com/profile_images/500679931/a2c_meca_400x400.jpg
+    image_url: /images/actors/a2c.jpg
     name: a2c
     url: https://twitter.com/atusi
   namaiki:
-    image_url: https://pbs.twimg.com/profile_images/1094901250670252039/pAwZT1xj_400x400.jpg
+    image_url: /images/actors/shiromai.jpg
     name: shiromai
     url: https://twitter.com/namaikicastle
 author: a2c
