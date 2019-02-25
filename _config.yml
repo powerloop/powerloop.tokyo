@@ -1,16 +1,16 @@
 actors:
-  alice:
+  a2c:
     image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
-  bob:
+    name: a2c
+    url: https://twitter.com/atusi
+  namaiki:
     image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+    name: shiromai
+    url: https://twitter.com/namaikicastle
+author: a2c
+description: Drone News/Tips/Race/etc
+description_long: ドローンに関するエトセトラ
+email: a2cgle@gmail.com
 exclude:
   - docker
   - docker-compose.yml
@@ -20,14 +20,14 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: dronepodcastjp
 itunes_podcast_url:
-keywords: comma,separated,keywords
+keywords: drone,game,race
 language: ja
 markdown: kramdown
 permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
+title: untitled not yet.
 url: http://example.com
