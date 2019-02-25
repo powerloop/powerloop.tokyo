@@ -31,3 +31,5 @@ sass:
 timezone: Asia/Tokyo
 title: untitled not yet.
 url: http://example.com
+
+theme: jekyll-theme-midnight
