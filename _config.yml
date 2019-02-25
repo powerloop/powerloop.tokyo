@@ -8,7 +8,7 @@ actors:
     name: shiromai
     url: https://twitter.com/namaikicastle
 author: a2c
-description: Drone News/Tips/Race/etc
+description: Drone News/Tips/Race/Tool/etc
 description_long: ドローンに関するエトセトラ
 email: a2cgle@gmail.com
 exclude:
@@ -19,7 +19,7 @@ exclude:
   - LICENSE.txt
   - README.md
   - vendor
-google_analytics:
+google_analytics:UA-135021159-1
 hashtag: dronecastjp
 itunes_podcast_url:
 keywords: drone,game,race,tool,tip
@@ -30,6 +30,6 @@ sass:
   sass_dir: css
 timezone: Asia/Tokyo
 title: untitled not yet.
-url: http://example.com
+url: https://a2chub.github.io/dronecast/
 
 theme: jekyll-theme-midnight
