@@ -19,7 +19,7 @@ exclude:
   - LICENSE.txt
   - README.md
   - vendor
-google_analytics:UA-135021159-1
+google_analytics: UA-135021159-1
 hashtag: dronecastjp
 itunes_podcast_url:
 keywords: drone,game,race,tool,tip
