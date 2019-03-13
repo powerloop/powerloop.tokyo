@@ -29,6 +29,6 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: PowerLoop fm
+title: powerloopfm
 url: https://powerloop.tokyo/
 theme: jekyll-theme-midnight
