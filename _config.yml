@@ -20,7 +20,7 @@ exclude:
   - README.md
   - vendor
 google_analytics: UA-135021159-1
-hashtag: dronecastjp
+hashtag: powerloopfm
 itunes_podcast_url:
 keywords: drone,game,race,tool,tip
 language: ja
@@ -30,5 +30,5 @@ sass:
   sass_dir: css
 timezone: Asia/Tokyo
 title: untitled not yet.
-url: https://fpv.a2c.dev/
+url: https://powerloop.tokyo/
 theme: jekyll-theme-midnight
