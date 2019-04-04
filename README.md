@@ -1,3 +1,3 @@
-# Yattecast
+# powerloop fm
 
-https://r7kamura.github.io/yattecast/
+https://powerloop.tokyo
