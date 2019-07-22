@@ -6,7 +6,11 @@ actors:
   namaiki:
     image_url: /images/actors/shiromai.jpg
     name: shiromai
-    url: https://twitter.com/namaikicastle
+    url: https://twitter.com/namaikicastle  
+  hc100:
+    image_url: /images/actors/hc100.png
+    name: hc100|カレー|Bancho
+    url: https://twitter.com/hc100
 author: a2c
 description: Drone News/Tips/Race/Tool/etc
 description_long: ドローンに関するエトセトラ
