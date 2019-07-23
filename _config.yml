@@ -25,7 +25,7 @@ exclude:
   - vendor
 google_analytics: UA-135021159-1
 hashtag: powerloopfm
-itunes_podcast_url:
+itunes_podcast_url: https://pcr.apple.com/id1456140660
 keywords: drone,game,race,tool,tip
 language: ja
 markdown: kramdown
